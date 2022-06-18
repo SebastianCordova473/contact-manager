@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/contactmanager/static/css/main.e7720ab7.css",
-    "main.js": "/contactmanager/static/js/main.2e5f1373.js",
-    "static/js/787.e5768a19.chunk.js": "/contactmanager/static/js/787.e5768a19.chunk.js",
-    "index.html": "/contactmanager/index.html",
-    "main.e7720ab7.css.map": "/contactmanager/static/css/main.e7720ab7.css.map",
-    "main.2e5f1373.js.map": "/contactmanager/static/js/main.2e5f1373.js.map",
-    "787.e5768a19.chunk.js.map": "/contactmanager/static/js/787.e5768a19.chunk.js.map"
+    "main.css": "/contact-manager/static/css/main.e7720ab7.css",
+    "main.js": "/contact-manager/static/js/main.a17ba5ab.js",
+    "static/js/787.f87af6a6.chunk.js": "/contact-manager/static/js/787.f87af6a6.chunk.js",
+    "index.html": "/contact-manager/index.html",
+    "main.e7720ab7.css.map": "/contact-manager/static/css/main.e7720ab7.css.map",
+    "main.a17ba5ab.js.map": "/contact-manager/static/js/main.a17ba5ab.js.map",
+    "787.f87af6a6.chunk.js.map": "/contact-manager/static/js/787.f87af6a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.2e5f1373.js"
+    "static/js/main.a17ba5ab.js"
   ]
 }
