@@ -1,8 +1,8 @@
 {
-  "name": "contactmanager",
+  "name": "contact-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SebastianCordova473.github.io/contactmanager",
+  "homepage": "https://SebastianCordova473.github.io/contact-manager",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
